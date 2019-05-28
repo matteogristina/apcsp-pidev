@@ -7,7 +7,7 @@ float areaOfCircle(float radius)
   return area;
 }
 
-int main(int argc, char* argv[])
+int main()
 {
   float smaller, larger;
   printf("Enter a small radius:\n");
